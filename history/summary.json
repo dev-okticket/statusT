@@ -4,10 +4,10 @@
     "url": "https://www.okticket.es",
     "icon": "https://favicons.githubusercontent.com/www.okticket.es",
     "slug": "ok-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1739,
@@ -15,7 +15,9 @@
     "timeWeek": 2411,
     "timeMonth": 1739,
     "timeYear": 1739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 1
+    }
   },
   {
     "name": "Gestor OKTicket",
