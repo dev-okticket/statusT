@@ -60,10 +60,10 @@
     "url": "https://api.okticket.es/v2/public/api/monitor/mongodb",
     "icon": "https://favicons.githubusercontent.com/api.okticket.es",
     "slug": "bbdd-mongo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1366,
@@ -71,16 +71,18 @@
     "timeWeek": 1232,
     "timeMonth": 1264,
     "timeYear": 1366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 1
+    }
   },
   {
     "name": "BBDD Mysql",
     "url": "https://api.okticket.es/v2/public/api/monitor/mysql",
     "icon": "https://favicons.githubusercontent.com/api.okticket.es",
     "slug": "bbdd-mysql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +91,8 @@
     "timeWeek": 393,
     "timeMonth": 415,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 0
+    }
   }
 ]
