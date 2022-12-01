@@ -36,9 +36,9 @@
     "url": "https://admin.okticket.es/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.okticket.es.ico",
     "slug": "gestor-ok-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -48,6 +48,7 @@
     "timeMonth": 953,
     "timeYear": 1034,
     "dailyMinutesDown": {
+      "2022-12-01": 0,
       "2022-05-20": 22
     }
   },
@@ -56,9 +57,9 @@
     "url": "https://adminokt.okticket.es/",
     "icon": "https://icons.duckduckgo.com/ip3/adminokt.okticket.es.ico",
     "slug": "gestor-nuevo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -67,7 +68,9 @@
     "timeWeek": 1114,
     "timeMonth": 1039,
     "timeYear": 961,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-01": 0
+    }
   },
   {
     "name": "BBDD Mongo",
