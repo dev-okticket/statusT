@@ -4,7 +4,7 @@
     "url": "https://www.okticket.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.okticket.es.ico",
     "slug": "ok-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "96.09%",
     "uptimeWeek": "99.44%",
@@ -16,6 +16,7 @@
     "timeMonth": 1998,
     "timeYear": 2368,
     "dailyMinutesDown": {
+      "2023-01-15": 0,
       "2023-01-14": 56,
       "2022-11-20": 160,
       "2022-11-17": 511,
